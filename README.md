@@ -8,7 +8,7 @@ Un zombie infecte un corail, qui rejette alors du poison mortel et, sans soin, d
 - [Description du projet](description_Harini_MINA.pdf)
 - [Diagramme UML](UML_Harini_MINA.png)
 
-## Technologies
+## Langage de programmation
 
 Java
 
